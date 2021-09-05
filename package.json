@@ -1,0 +1,17 @@
+{
+    "name": "bot-for-login-and-like",
+    "version": "0.0.1",
+    "description": "Just a simple bot to make a login and like some pics",
+    "main": "index.js",
+    "scripts": {
+
+    },
+    "keywords": [
+        "Bot"
+    ],
+    "author": "BRichardev",
+    "license": "ISC",
+    "dependencies": {
+        "puppeteer": "^10.2.0"
+    }
+}
